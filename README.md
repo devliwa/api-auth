@@ -7,11 +7,11 @@
   - Specify that you only want the secrets from page 2
   - HINT: This is how you can use axios to do basic auth:
   - https://stackoverflow.com/a/74632908
-  /*
+   ``` 
    axios.get(URL, {
       auth: {
         username: "abc",
         password: "123",
       },
-    });
-  */
+    });```
+  
