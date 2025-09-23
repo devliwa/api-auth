@@ -8,7 +8,7 @@
   - HINT: This is how you can use axios to do basic auth:
   - https://stackoverflow.com/a/74632908
 
-    js``` 
+    javescript``` 
    axios.get(URL, {
       auth: {
         username: "abc",
