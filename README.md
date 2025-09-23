@@ -16,4 +16,7 @@
       },
     });
   ```
-  
+- TODO 4: Write your code here to hit up the /filter endpoint
+  - Filter for all secrets with an embarassment score of 5 or greater
+  - HINT: You need to provide a query parameter of apiKey in the request.
+
