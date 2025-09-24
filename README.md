@@ -1,4 +1,8 @@
 # api-authentication
+
+<img width="1300" height="664" alt="Screenshot 2025-09-23 at 6 56 16 PM" src="https://github.com/user-attachments/assets/e4db38af-c8cd-49b7-85bf-1c47c7a5663c" />
+
+
 - TODO 1: Fill in your values for the 3 types of auth.
 - TODO 2: Use axios to hit up the /random endpoint
   - The data you get back should be sent to the ejs file as "content"
